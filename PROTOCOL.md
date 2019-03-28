@@ -50,6 +50,9 @@ Operand A ou B : Entier
 | ------ |
 | Result |
 
+Result : Résultat de l'opération ou message d'erreur.
+
+Message d'erreur: Error
 
 # Who closes the connection and when?
 
