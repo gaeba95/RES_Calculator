@@ -1,3 +1,7 @@
+# Auteurs
+
+Gaetan Bacso et Marion Dutu Launay
+
 # What transport protocol do we use?
 
 Nous allons utiliser le protocol TCP.
